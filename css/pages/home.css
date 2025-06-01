@@ -150,7 +150,7 @@
     gap: 60px;
 }
 
-#show-off .content .game {
+#show-off .content .feature {
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -159,15 +159,15 @@
     gap: 60px;
 }
 
-#show-off .content .game:nth-child(even) img{
+#show-off .content .feature:nth-child(even) img{
     order: 1;
 }
 
-#show-off .content .game:nth-child(even) img:hover {
+#show-off .content .feature:nth-child(even) img:hover {
     transform: rotate(2deg);
 }
 
-#show-off .content .game img {
+#show-off .content .feature img {
     width: 100%;
     height: 300px;
     object-fit: cover;
@@ -175,24 +175,24 @@
     transition: 0.2s;
 }
 
-#show-off .content .game img:hover {
+#show-off .content .feature img:hover {
     transform: rotate(-1deg);
 }
 
-#show-off .content .game .info {
+#show-off .content .feature .info {
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
-#show-off .content .game .info .section-title {
+#show-off .content .feature .info .section-title {
     font-size: 30px;
     font-weight: 700;
     color: var(--white-color);
     position: relative;
 }
 
-#show-off .content .game .info .section-title::before {
+#show-off .content .feature .info .section-title::before {
     content: "";
     position: absolute;
     bottom: -9px;
@@ -203,7 +203,7 @@
     background: var(--description-color);
 }
 
-#show-off .content .game .info .section-title::after {
+#show-off .content .feature .info .section-title::after {
     content: "";
     position: absolute;
     bottom: -10px;
@@ -214,13 +214,13 @@
     background: var(--main-color);
 }
 
-#show-off .content .game .info .game-description {
+#show-off .content .feature .info .feature-description {
     color: var(--description-color-2);
     font-size: 17px;
     line-height: 1.6;
 }
 
-#show-off .content .game .info .game-description ul {
+#show-off .content .feature .info .feature-description ul {
     padding: 10px 0 0 40px;
 }
 
@@ -452,12 +452,12 @@
 
 /*Mini games*/
 @media screen and (max-width: 1141px) {
-    #show-off .content .game {
+    #show-off .content .feature {
         flex-direction: column;
         gap: 40px;
     }
 
-    #show-off .content .game:nth-child(even) img{
+    #show-off .content .feature:nth-child(even) img{
         order: 0;
     }
 }
