@@ -191,9 +191,6 @@ const getSkinByUuid = async (username) => {
 
 const setDataFromConfigToHtml = async () => {
 
-    let locationPathname = location.pathname;
-
-    if(locationPathname.includes("leadership")) {
         for (let team in config.adminTeamPage) {
             const atContent = document.querySelector(".at-content");
             
@@ -235,7 +232,6 @@ const setDataFromConfigToHtml = async () => {
                 userDiv.innerHTML = userDivSchema;
                 group.appendChild(userDiv);
             }
-        }
     }
 }
 

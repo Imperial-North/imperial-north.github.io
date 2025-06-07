@@ -50,6 +50,14 @@ const config = {
                 "Tensions rose as greymesa, a two- year Coalition veteran, clashed with Fake4, a recent defector.With mounting pressure from Canadian citizens and passive responses from Coalition leadership, greymesa issued an ultimatum: release Canada or face revolt.Fake4 ignored the warning. " +
                 "One day later, Canada revolted—ending its occupation and setting the stage for renewed independence. " 
         }
+    ],
+    "4": [
+        {
+            tag: "canada",
+            date: "May 2024",
+            title: "The First Prospekt Revolt",
+            description: "With their fort fully constructed and ready for battle, Canada issued a call for aid. Answering the call, both the Alliance and the Phoenix Federation rallied to their side. Their combined forces were so overwhelming that the Floritânians chose not to engage, and Canada regained its freedom without a fight."
+        }
     ]
 }
 
