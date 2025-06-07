@@ -17,7 +17,7 @@ const faq = [
     },
     {
         header: "What is the diplomatic stance of the empire?",
-        description: "We’re part of the Imperial Alliance, an alliance with Rome, Siberium and Ironwood. We oppose coalition nations like Thracia, Quintessence Syndicate and Floritania."
+        description: "We’re part of the Imperial Alliance, an alliance with Rome, Britain, Siberium, Spain, Vanaco and Ironwood. We oppose coalition nations like Thracia, Quintessence Syndicate, Japan, Oceanic Empire, Russia, ETM, Caribbean Empire, and Floritania. We maintain however, that our intention is peace, we will not attack unless provoke, we will not attack any neutral nation unless they directly attack us."
     },
     {
         header: "How do I rank up or earn a leadership position?",
