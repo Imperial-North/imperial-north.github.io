@@ -57,6 +57,21 @@ const config = {
             date: "May 2024",
             title: "The First Prospekt Revolt",
             description: "With their fort fully constructed and ready for battle, Canada issued a call for aid. Answering the call, both the Alliance and the Phoenix Federation rallied to their side. Their combined forces were so overwhelming that the Floritânians chose not to engage, and Canada regained its freedom without a fight."
+        }, {
+            tag: "canada",
+            date: "May 2024",
+            title: "Tertian Merge",
+            description: "In late June, Greymesa proposed a merger between Canada and the Kingdom of Tertia—a nation located in northwestern Canada—to its leaders, Tre_2020 and ImGnomeAlone. They agreed, but suggested a set of three challenges to decide which nation would absorb the other. The first was a race from the northernmost point of the map to the southernmost. The second was a best-of-three PvP duel in the Hub. The final challenge: a game of UNO. Greymesa chose EkkoTheEcho as his champion, placing full trust in his skill, while Tre decided to compete himself. Ekko won the first two challenges, securing victory for Canada. As a result, Tertia merged into Canada, and both Tre_2020 and ImGnomeAlone were appointed Co-Leaders—a position they still hold today."
+        }, {
+            tag: "canada",
+            date: "May 2024",
+            title: "Second Siege of Nova Prospekt",
+            description: "Due to Canada’s ongoing conflict with the Empire of Columbia, Rome was unable to attend the Second Siege of Nova Prospekt. In response, Canada turned to two neutral nations for support: the Lone Star Republic and Vinovia. However, with reduced numbers and key Vinovian players preoccupied with HOI4 games, the combined forces were unable to secure a victory."
+        }, {
+            tag: "canada",
+            date: "May 2024",
+            title: "The NAU & Columbian peace",
+            description: "To everyone’s surprise, Floritânia launched a siege against the Empire of Columbia. This unexpected move forced Canada and EOC—despite their differences—to set aside their pride and unite against the looming threat. In the wake of this cooperation, Canada was officially accepted into the Alliance. Around this time, FoxTheConqueror, a leader of the Lone Star Republic, approached Greymesa with a bold proposal: a full merger between their nations to better combat Floritânia. After consulting with the Texan leadership, who expressed a desire to move forward immediately, Greymesa hastily sent a message to the Canadian leadership chat, vaguely stating that the merge would happen—without fully explaining the terms. With over half of the council reacting positively, he took this as approval and allowed a day for the news to settle. The merger went through the next day—but to the disappointment of many on both sides. Tensions quickly rose when it became clear that the previously discussed political system was not aligned with Texan expectations. Both sides eventually agreed to continue fighting together for freedom but part ways afterward. Unfortunately, most Texans chose to leave Canada entirely, moving to the Oceanic Empire. A few who remained grew hostile, openly berating Canadian leadership and members. In August 2024, this group reformed the Lone Star Republic—and by late September, they were sieged and occupied by the Caribbean Empire (formerly the Cultist Empire)."
         }
     ]
 }

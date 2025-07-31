@@ -28,5 +28,15 @@ function createLeaf() {
 
 }
 
+// function getSnowflakeOrMapleLeaf() {
+//   const random = Math.round(Math.random())
+
+//   if (random == 1) {
+//     return '❄️'
+//   } else {
+//     return '🍁'
+//   }
+// }
+
 // Spawn a new leaf every 300 ms
 setInterval(createLeaf, 300);
